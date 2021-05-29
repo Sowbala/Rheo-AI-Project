@@ -18,8 +18,6 @@ server = [("large", 1),
 		  ("10xlarge", 32)
 		 ]
 
-
-
 class ResourceAllocator:
 	
 
